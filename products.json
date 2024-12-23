@@ -1,0 +1,32 @@
+[
+  { "name": "Sofa Set", "price": 500, "company": "ikea", "rating": 4.5 },
+  { "name": "Blender", "price": 120, "company": "baltra", "rating": 3.8 },
+  { "name": "Dining Table", "price": 750, "company": "ikea", "rating": 4.2 },
+  {
+    "name": "Electric Kettle",
+    "price": 40,
+    "company": "baltra",
+    "rating": 3.5
+  },
+  { "name": "Curtains", "price": 30, "company": "choice", "rating": 4.0 },
+  { "name": "LED Lamp", "price": 25, "company": "choice", "rating": 3.7 },
+  { "name": "Bookshelf", "price": 200, "company": "ikea", "rating": 4.6 },
+  { "name": "Toaster", "price": 60, "company": "baltra", "rating": 3.9 },
+  { "name": "Coffee Table", "price": 300, "company": "ikea", "rating": 4.1 },
+  { "name": "Water Filter", "price": 120, "company": "bagmati", "rating": 3.3 },
+  { "name": "Chairs", "price": 150, "company": "ikea", "rating": 4.4 },
+  { "name": "Mixer Grinder", "price": 90, "company": "baltra", "rating": 3.6 },
+  { "name": "Wardrobe", "price": 800, "company": "ikea", "rating": 4.8 },
+  { "name": "Ceiling Fan", "price": 70, "company": "bagmati", "rating": 3.4 },
+  { "name": "TV Stand", "price": 350, "company": "choice", "rating": 4.3 },
+  {
+    "name": "Induction Cooktop",
+    "price": 100,
+    "company": "baltra",
+    "rating": 3.8
+  },
+  { "name": "Shoe Rack", "price": 100, "company": "ikea", "rating": 4.2 },
+  { "name": "Heater", "price": 50, "company": "bagmati", "rating": 3.7 },
+  { "name": "Mattress", "price": 600, "company": "ikea", "rating": 4.7 },
+  { "name": "Vacuum Cleaner", "price": 150, "company": "choice", "rating": 3.9 }
+]
